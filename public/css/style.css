@@ -1,0 +1,12 @@
+.cover{
+    height: 300px;
+    /* 100vh for full screen size */
+    width: 100%;
+    object-fit: cover;
+    /* none */
+    object-position: center;
+    /* top left; */
+}
+#usernameNavbar{
+    color: skyblue;
+}
